@@ -9,4 +9,5 @@
     min-height: 100vh;
     scroll-behavior: smooth;
     background-color: rgb(168, 234, 88);
+    overflow-x: hidden;
 }
